@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Hugo Blog</title>
+    <link>cai_zhaohui.github.io/tags/</link>
+    <description>Recent content in Tags on Hugo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
+    <lastBuildDate>Sat, 16 May 2020 15:27:20 +0800</lastBuildDate>
+    
+	<atom:link href="cai_zhaohui.github.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>tagA</title>
+      <link>cai_zhaohui.github.io/tags/taga/</link>
+      <pubDate>Sat, 16 May 2020 15:27:20 +0800</pubDate>
+      
+      <guid>cai_zhaohui.github.io/tags/taga/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>tagB</title>
+      <link>cai_zhaohui.github.io/tags/tagb/</link>
+      <pubDate>Sat, 16 May 2020 15:27:20 +0800</pubDate>
+      
+      <guid>cai_zhaohui.github.io/tags/tagb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>cai_zhaohui.github.io/tags/hugo/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>cai_zhaohui.github.io/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Theme</title>
+      <link>cai_zhaohui.github.io/tags/theme/</link>
+      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      
+      <guid>cai_zhaohui.github.io/tags/theme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>development</title>
+      <link>cai_zhaohui.github.io/tags/development/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>cai_zhaohui.github.io/tags/development/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>go</title>
+      <link>cai_zhaohui.github.io/tags/go/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>cai_zhaohui.github.io/tags/go/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>cai_zhaohui.github.io/tags/golang/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>cai_zhaohui.github.io/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>templates</title>
+      <link>cai_zhaohui.github.io/tags/templates/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>cai_zhaohui.github.io/tags/templates/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>themes</title>
+      <link>cai_zhaohui.github.io/tags/themes/</link>
+      <pubDate>Mon, 28 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>cai_zhaohui.github.io/tags/themes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Markdown</title>
+      <link>cai_zhaohui.github.io/tags/markdown/</link>
+      <pubDate>Thu, 17 Jul 2014 00:00:00 +0000</pubDate>
+      
+      <guid>cai_zhaohui.github.io/tags/markdown/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>tagA on Hugo Blog</title>
+    <link>cai_zhaohui.github.io/tags/taga/</link>
+    <description>Recent content in tagA on Hugo Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <copyright>© This post is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License，please give source if you wish to quote or reproduce.</copyright>
+    <lastBuildDate>Sat, 16 May 2020 15:27:20 +0800</lastBuildDate>
+    
+	<atom:link href="cai_zhaohui.github.io/tags/taga/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>First Post</title>
+      <link>cai_zhaohui.github.io/post/first-post/</link>
+      <pubDate>Sat, 16 May 2020 15:27:20 +0800</pubDate>
+      
+      <guid>cai_zhaohui.github.io/post/first-post/</guid>
+      <description>&lt;p&gt;Cut out summary from your post content here.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>
